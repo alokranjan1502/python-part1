@@ -1,5 +1,5 @@
 # python-part1
-I have upload basic of python basic class notes.
+I have uploaded basic of python basic class notes.
 This files can used by any on whose want to learn Python from Basic.
 
 How you can use these files.
